@@ -1,0 +1,12 @@
+Configuración de Base de Datos MySQL
+
+Se muestra en archivo “DBConfig”
+
+Ubicado en: ABJ_GUARDERIA\src\Conexion\ DBConfig
+
+user=root
+port=3306
+password=123456789
+DataBase=bd_lacasadelupita?characterEncoding=latin1&useConfigs=maxPerformance
+host=localhost
+Gestor=mysql
